@@ -14,6 +14,7 @@ function App() {
 
   function badlav(e) {
     setMembers(e.target.value);
+    console.log("hello");
   }
 
   function badlav2(e) {
